@@ -1,6 +1,7 @@
 {
   "main": "index.js",
   "scripts": {
+    "clear": "rm -rf dist/*",
     "build": "webpack --config ./bundler/webpack.prod.js",
     "dev": "webpack serve --config ./bundler/webpack.dev.js"
   },

@@ -1,0 +1,1 @@
+# You can add static files in this folder
